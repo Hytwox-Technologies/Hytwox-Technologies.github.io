@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "abd41301a4890a603270385cc4ba51ce",
+  "assets/AssetManifest.json": "ecae98a34f52cf633f3ba32bc0df6f4e",
 "assets/assets/fonts/Nunito-Italic.ttf": "380d3172fab0055a8d74ab12636f5a9b",
 "assets/assets/fonts/Nunito-Regular.ttf": "d8de52e6c5df1a987ef6b9126a70cfcc",
 "assets/assets/images/background-land.png": "9ef46cc889a7f6fc44f36513ed4c476e",
