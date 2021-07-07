@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ecae98a34f52cf633f3ba32bc0df6f4e",
+  "assets/AssetManifest.json": "779c888df466c80cfd72a944937aa78c",
 "assets/assets/fonts/Nunito-Italic.ttf": "380d3172fab0055a8d74ab12636f5a9b",
 "assets/assets/fonts/Nunito-Regular.ttf": "d8de52e6c5df1a987ef6b9126a70cfcc",
 "assets/assets/images/background-land.png": "9ef46cc889a7f6fc44f36513ed4c476e",
@@ -35,7 +35,7 @@ const RESOURCES = {
 "index.html": "48c6298beea0da8d593238ab74c94a6b",
 "/": "48c6298beea0da8d593238ab74c94a6b",
 "index.php": "f45006f6f768842473d23fcf54a2d80f",
-"main.dart.js": "1b09e9406a68cab06a6b0414bf277985",
+"main.dart.js": "c6d7daeb84d434e2411dd51ea280b628",
 "manifest.json": "3df8e92db3e380460ebece2ac0d7b57e",
 "version.json": "06656f6f47c331b4b9ff5023382df168"
 };
