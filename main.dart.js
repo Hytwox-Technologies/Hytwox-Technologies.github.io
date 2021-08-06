@@ -59334,7 +59334,7 @@ $S:0}
 Z.M3.prototype={
 D:function(a,b){var s=null,r=$.bs7()
 $.bgl().toString
-return new G.PG(new D.Kr("assets/images/logo.svg",s,s,r,s),"Acqui Logo",!1,s,s)}}
+return new G.PG(new D.Kr("assets/images/logo_full.png",s,s,r,s),"Acqui Logo",!1,s,s)}}
 K.My.prototype={
 a8:function(){return new K.ad9(new N.bc(null,t.B),C.j)}}
 K.ad9.prototype={
