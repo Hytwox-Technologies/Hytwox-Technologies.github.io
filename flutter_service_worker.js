@@ -10,7 +10,7 @@ const RESOURCES = {
 "assets/assets/images/background-land.svg": "acc3e65ed8607b26cf07f3ac66babf7c",
 "assets/assets/images/background.png": "153108109a0a37050dbab07d838d8af3",
 "assets/assets/images/background.svg": "d1db600d5533e12d00cb7662390f4bdf",
-"assets/assets/images/logo.svg": "71443c634e598e0b8c5804d318dca59f",
+"assets/assets/images/logo.svg": "83393b8d05969b429c3c77486d84a29f",
 "assets/assets/images/module-placeholder.png": "a6196786555fa2fc46f85d7045db15ad",
 "assets/assets/images/module-placeholder.svg": "fccc28e49e531a3029bdbfa95070b36c",
 "assets/FontManifest.json": "d685525c9895b54281cb782261545443",
