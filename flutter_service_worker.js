@@ -42,11 +42,11 @@ const RESOURCES = {
 "icons/mstile-150x150.png": "2e9bb6d63c75fffa36d3971f96737890",
 "icons/safari-pinned-tab.svg": "8812c1866dd2a6eafe5a1cc3a976a957",
 "icons/site.webmanifest": "092b5f9a82d5cf89e49299a2895fe035",
-"index.html": "ac51fc41fe5e47a4acad0c3334ce6608",
-"/": "ac51fc41fe5e47a4acad0c3334ce6608",
+"index.html": "96be2f44a0533b28fed707db499ac29a",
+"/": "96be2f44a0533b28fed707db499ac29a",
 "index.php": "f45006f6f768842473d23fcf54a2d80f",
 "main.dart.js": "da587daf363f0d754c1eb9b794a1ad26",
-"manifest.json": "3df8e92db3e380460ebece2ac0d7b57e",
+"manifest.json": "5e0e9b56a373ae9306bf2d1539624365",
 "version.json": "06656f6f47c331b4b9ff5023382df168"
 };
 
