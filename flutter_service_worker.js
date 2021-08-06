@@ -27,7 +27,6 @@ const RESOURCES = {
 "assets/packages/simple_fontellico_progress_dialog/fonts/Fontelico.ttf": "18d30ed3f43334e8cea0cca546e334d5",
 "assets/packages/timezone/data/2020a.tzf": "84285f1f81b999f1de349a723574b3e5",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
-"composer.json": "8a80554c91d9fca8acb82f023de02f11",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "firebase-messaging-sw.js": "22e585d6bc1d8f4e0131805a66db050d",
 "icons/android-chrome-192x192.png": "a50888f6b8132a012a945001c5f9db52",
@@ -42,8 +41,7 @@ const RESOURCES = {
 "icons/site.webmanifest": "3b241f88cd91a2da58fcc3aecea97416",
 "index.html": "96be2f44a0533b28fed707db499ac29a",
 "/": "96be2f44a0533b28fed707db499ac29a",
-"index.php": "f45006f6f768842473d23fcf54a2d80f",
-"main.dart.js": "a78d1bfa1f63bfa0d3d030fd208681a8",
+"main.dart.js": "c22b36bc63ac592bef5548b393a61afc",
 "manifest.json": "948c1fa6d2373a7318997a23aa4c7d2f",
 "version.json": "06656f6f47c331b4b9ff5023382df168"
 };
