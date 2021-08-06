@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "baf1f02bd459dd200b6221f2aa062544",
+  "assets/AssetManifest.json": "448570069767ba8f3db40bd0912bc557",
 "assets/assets/fonts/Nunito-Italic.ttf": "380d3172fab0055a8d74ab12636f5a9b",
 "assets/assets/fonts/Nunito-Regular.ttf": "d8de52e6c5df1a987ef6b9126a70cfcc",
 "assets/assets/images/background-land.png": "9ef46cc889a7f6fc44f36513ed4c476e",
@@ -11,7 +11,8 @@ const RESOURCES = {
 "assets/assets/images/background.png": "153108109a0a37050dbab07d838d8af3",
 "assets/assets/images/background.svg": "d1db600d5533e12d00cb7662390f4bdf",
 "assets/assets/images/logo.svg": "83393b8d05969b429c3c77486d84a29f",
-"assets/assets/images/module-placeholder.png": "a6196786555fa2fc46f85d7045db15ad",
+"assets/assets/images/module-placeholder.bak.png": "a6196786555fa2fc46f85d7045db15ad",
+"assets/assets/images/module-placeholder.png": "98a9057dbb6f80340b1b1da0d0964332",
 "assets/assets/images/module-placeholder.svg": "fccc28e49e531a3029bdbfa95070b36c",
 "assets/FontManifest.json": "d685525c9895b54281cb782261545443",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
