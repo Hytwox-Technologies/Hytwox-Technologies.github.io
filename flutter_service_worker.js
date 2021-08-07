@@ -41,7 +41,7 @@ const RESOURCES = {
 "icons/site.webmanifest": "3b241f88cd91a2da58fcc3aecea97416",
 "index.html": "96be2f44a0533b28fed707db499ac29a",
 "/": "96be2f44a0533b28fed707db499ac29a",
-"main.dart.js": "c22b36bc63ac592bef5548b393a61afc",
+"main.dart.js": "7307187729673c1cd6f0ed170608058c",
 "manifest.json": "948c1fa6d2373a7318997a23aa4c7d2f",
 "version.json": "06656f6f47c331b4b9ff5023382df168"
 };
