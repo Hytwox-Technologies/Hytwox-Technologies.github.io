@@ -49,23 +49,12 @@
 
     <title>Acqui</title>
     <link rel="manifest" href="manifest.json" />
-    <style>
-      @media print {
-        html,
-        body {
-          display: none; /* hide whole page */
-        }
-      }
-      /* video {
-        position: fixed !important;
-        top: 0 !important;
-        left: 0 !important;
-        bottom: 0 !important;
-        right: 0 !important;
-      } */
-    </style>
+    <link rel="stylesheet" href="/style/index.css" />
   </head>
   <body>
+    <div class="splash-screen">
+      <img src="/images/logo.svg" />
+    </div>
     <!-- This script installs service_worker.js to provide PWA functionality to
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->

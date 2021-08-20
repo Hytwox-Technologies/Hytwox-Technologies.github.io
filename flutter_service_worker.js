@@ -39,10 +39,14 @@ const RESOURCES = {
 "icons/mstile-150x150.png": "fde28e46137be130cfe2340fa8bf5700",
 "icons/safari-pinned-tab.svg": "80ff4cb88058fef1f92eb35bb97f1534",
 "icons/site.webmanifest": "3b241f88cd91a2da58fcc3aecea97416",
-"index.html": "96be2f44a0533b28fed707db499ac29a",
-"/": "96be2f44a0533b28fed707db499ac29a",
-"main.dart.js": "9ef3d9cbc9486a810b6af8ab37872abd",
+"images/background-land.svg": "acc3e65ed8607b26cf07f3ac66babf7c",
+"images/background.svg": "d1db600d5533e12d00cb7662390f4bdf",
+"images/logo.svg": "83393b8d05969b429c3c77486d84a29f",
+"index.html": "b8b77ef8528f8cb741348540c0f32b28",
+"/": "b8b77ef8528f8cb741348540c0f32b28",
+"main.dart.js": "df4c1ee6e9b42941611a730d8ca52f88",
 "manifest.json": "948c1fa6d2373a7318997a23aa4c7d2f",
+"style/index.css": "f4060c2c9c749237a41b08c1b8088cdd",
 "version.json": "06656f6f47c331b4b9ff5023382df168"
 };
 
