@@ -44,7 +44,7 @@ const RESOURCES = {
 "images/logo.svg": "83393b8d05969b429c3c77486d84a29f",
 "index.html": "b8b77ef8528f8cb741348540c0f32b28",
 "/": "b8b77ef8528f8cb741348540c0f32b28",
-"main.dart.js": "fb59968c4401f4d9fe2f61165e336d3f",
+"main.dart.js": "9b2da17dbcd628543e66e563a6ec5ef0",
 "manifest.json": "948c1fa6d2373a7318997a23aa4c7d2f",
 "style/index.css": "f4060c2c9c749237a41b08c1b8088cdd",
 "version.json": "06656f6f47c331b4b9ff5023382df168"
