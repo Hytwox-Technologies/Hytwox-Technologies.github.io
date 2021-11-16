@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a75a31b9004d5f21e007fc3221db1431",
+  "assets/AssetManifest.json": "7357a622100f949916d42c5a00260248",
 "assets/assets/fonts/Nunito-Italic.ttf": "380d3172fab0055a8d74ab12636f5a9b",
 "assets/assets/fonts/Nunito-Regular.ttf": "d8de52e6c5df1a987ef6b9126a70cfcc",
 "assets/assets/images/background-land.png": "9ef46cc889a7f6fc44f36513ed4c476e",
 "assets/assets/images/background-land.svg": "acc3e65ed8607b26cf07f3ac66babf7c",
 "assets/assets/images/background.png": "153108109a0a37050dbab07d838d8af3",
 "assets/assets/images/background.svg": "d1db600d5533e12d00cb7662390f4bdf",
+"assets/assets/images/logo.png": "c4929a98a2231067698ee0dbd8e39942",
 "assets/assets/images/logo.svg": "2de0da54e709d725da191bf4b27f90ae",
 "assets/assets/images/module-placeholder.bak.png": "a6196786555fa2fc46f85d7045db15ad",
 "assets/assets/images/module-placeholder.png": "a99a1c524e18de9b64206a10af32dcae",
@@ -42,10 +43,10 @@ const RESOURCES = {
 "icons/site.webmanifest": "d6ae70241c707486cce8a0b86ee0a6e3",
 "images/background-land.svg": "acc3e65ed8607b26cf07f3ac66babf7c",
 "images/background.svg": "d1db600d5533e12d00cb7662390f4bdf",
-"images/logo.svg": "83393b8d05969b429c3c77486d84a29f",
+"images/logo.svg": "2de0da54e709d725da191bf4b27f90ae",
 "index.html": "adaaf9dd3436502d8f93da116fd25697",
 "/": "adaaf9dd3436502d8f93da116fd25697",
-"main.dart.js": "4f0fed2b6f8e9de234cb3cdad095dc93",
+"main.dart.js": "eacd77370928bd69d25a02c4d0c0684e",
 "manifest.json": "948c1fa6d2373a7318997a23aa4c7d2f",
 "style/index.css": "f4060c2c9c749237a41b08c1b8088cdd",
 "version.json": "06656f6f47c331b4b9ff5023382df168"
