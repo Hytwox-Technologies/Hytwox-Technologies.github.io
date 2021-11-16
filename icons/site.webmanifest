@@ -1,19 +1,19 @@
 {
-    "name": "Admin Panel",
-    "short_name": "Admin Panel",
-    "icons": [
-        {
-            "src": "/icons/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/icons/android-chrome-256x256.png",
-            "sizes": "256x256",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#0d113e",
-    "background_color": "#0d113e",
-    "display": "standalone"
+  "name": "Acqui - Admin Panel",
+  "short_name": "Acqui - Admin Panel",
+  "icons": [
+    {
+      "src": "/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#12142a",
+  "background_color": "#12142a",
+  "display": "standalone"
 }
